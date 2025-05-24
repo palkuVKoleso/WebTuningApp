@@ -1,3 +1,7 @@
+📁 **Projekta fails atrodas mapē [`WebTuningApp`](./WebTuningApp/)**  
+👉 Lūdzu, atveriet to, lai apskatītu avota kodu.
+
+
 # WebTuningApp
 
 Vienkārša tīmekļa lietotne auto entuziastiem: diagnostika, tūnings un pieteikšanās konsultācijām tiešsaistē.
