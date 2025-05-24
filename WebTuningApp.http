@@ -1,0 +1,6 @@
+@WebTuningApp_HostAddress = http://localhost:5119
+
+GET {{WebTuningApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
