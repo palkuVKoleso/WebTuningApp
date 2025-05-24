@@ -15,3 +15,5 @@ Vienkārša tīmekļa lietotne auto entuziastiem: diagnostika, tūnings un piete
 
 ```bash
 dotnet run
+
+🌐 Lai apskatītu tīmekļa lapu, atveriet [`index.html`](./index.html)
