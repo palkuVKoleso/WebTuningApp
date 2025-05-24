@@ -11,7 +11,6 @@ builder.Services.AddControllers();
 
 var app = builder.Build();
 
-// ✅ CORS Middleware — ДО всего остального
 app.Use(async (context, next) =>
 {
     context.Response.Headers.Add("Access-Control-Allow-Origin", "*");
