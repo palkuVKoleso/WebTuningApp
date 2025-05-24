@@ -1,6 +1,3 @@
-📁 **Projekta fails atrodas mapē [`WebTuningApp`](./WebTuningApp/)**  
-👉 Lūdzu, atveriet to, lai apskatītu avota kodu.
-
 
 # WebTuningApp
 
